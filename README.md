@@ -8,3 +8,18 @@ Alex "Poatan" Pereira ; UFC LightHeavy Weight Champion
 
 - Con!!
 - Pro!!
+
+
+## 2. P4P fighters Rank
+1. Makachev
+2. John Jones
+3. Poatan
+
+
+---
+
+```python
+
+print("I'm the baddest mother fxxker in the world")
+
+```
